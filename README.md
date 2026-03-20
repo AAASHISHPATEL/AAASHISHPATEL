@@ -75,6 +75,7 @@
 | **CodeSnip Manager** | Developer snippet manager supporting 10+ languages with keyword-based retrieval. Deployed on Azure DevOps. Onboarded 20+ active users. | JavaScript, Node.js, Azure DevOps | [Code](https://github.com/AAASHISHPATEL/CodeSnip-Manager) |
 | **StayFinder** | Airbnb-style accommodation listing platform built with the MERN stack. | React, Node, Express, MongoDB | [Code](https://github.com/AAASHISHPATEL/StayFinder) · [Live](https://stayfinder-1-eotk.onrender.com) |
 | **Innoverse 25** | Official NIT Durgapur tech-fest website facilitating registrations for 300+ students. | React, TailwindCSS, Vercel | [Code](https://github.com/AAASHISHPATEL/Innoverse-25) · [Live](https://innoverse-25.vercel.app) |
+| **SIH 2025 — FloatChat** | AI-powered floating chat assistant built for Smart India Hackathon 2025, featuring real-time conversational UI and smart contextual responses. | JavaScript, React, Vercel | [Code](https://github.com/AAASHISHPATEL/SIH2025) · [Live](https://floatchat-omega.vercel.app) |
 
 ---
 
